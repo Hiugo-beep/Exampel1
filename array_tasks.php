@@ -176,6 +176,8 @@ $mass16_B   =   [
 
 
 
+###123
+
 
 print_r( array_diff( $mass16_A, $mass16_B));
 
